@@ -1,0 +1,29 @@
+
+*{
+background-color: #343a40
+}.col{
+  border: solid black 1px;
+  margin: 0.5rem;
+}
+.container text-center{
+  display: flex;
+  flex-wrap: wrap;
+}
+p{
+  color: aliceblue;
+}
+h1{
+  color:  #FF652f
+}
+h2{
+  color: #FF652f
+}
+h4{
+  color: aliceblue;
+}
+.form-group{
+  color: aliceblue;
+}
+h5{
+  color: aliceblue;
+}
